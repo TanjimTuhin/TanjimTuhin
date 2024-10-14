@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanjimTuhin
 - 👀 I’m interested in Cloud Computing, DevOps, MLOps, Network Engineering, AI, IOT, Embedded System and BlockChain
 - 🌱 I’m currently learning Python, CCNA after that C++ , Javascript and Machine Learning
-  python  (100 days of code -> Automate the Boring Stuff with Python Programming -> 60 days 20 project)
+                     python  (100 days of code -> Automate the Boring Stuff with Python Programming -> 60 days 20 project)
   CCNA    (your CCNA start -> Linux Training -> Bash Scripting)
   
 - 💞️ I’m not available to collaborate right now.
