@@ -7,7 +7,7 @@
 - 💞️ I’m not available to collaborate right now.
 - 📫 How to reach me Gmail: tanjimtuhin06@gmail.com or LinkedIn: https://www.linkedin.com/in/tanjim-xenon-tuhin/
 - 😄 Pronouns: He/Him
-- ⚡ Fact: I Love F1
+- ⚡ Fact: I Love F1 and myself
 
 <!---
 TanjimTuhin/TanjimTuhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
