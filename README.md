@@ -7,6 +7,7 @@
 - 💞️ I’m not available to collaborate right now.
 - 📫 How to reach me Gmail: tanjimtuhin06@gmail.com or LinkedIn: https://www.linkedin.com/in/tanjim-xenon-tuhin/
 - HackerRank: https://www.hackerrank.com/profile/tanjimtuhin06 LeetCode: https://leetcode.com/u/wjLdu9hSHN/
+- ResearchGate: https://www.researchgate.net/profile/Md-Tanjim-Mahmud-Tuhin
 - 😄 Pronouns: He/Him
 - ⚡ Fact: I Love F1 and myself
 
