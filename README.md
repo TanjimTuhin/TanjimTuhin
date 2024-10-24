@@ -4,7 +4,7 @@
                      python  (100 days of code -> Automate the Boring Stuff with Python Programming -> 60 days 20 project)
   CCNA    (your CCNA start -> Linux Training -> Bash Scripting)
 
-  for python #Bro Code is the best:https://youtu.be/ix9cRaBkVe0
+  for python #BroCode is the best Tutorial:https://youtu.be/ix9cRaBkVe0 20Projects:https://youtu.be/4wGuB3oAKc4
 - 💞️ I’m not available to collaborate right now.
 - 📫 How to reach me Gmail: tanjimtuhin06@gmail.com or LinkedIn: https://www.linkedin.com/in/tanjim-xenon-tuhin/
 - HackerRank: https://www.hackerrank.com/profile/tanjimtuhin06 LeetCode: https://leetcode.com/u/wjLdu9hSHN/
